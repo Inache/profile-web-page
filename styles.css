@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Aldrich', sans-serif;
+}
+body{
+
+}
+
+div .containerForHeader{
+    position: absolute;
+}
+.container{
+margin-bottom: 5%;
+
+
+}
+td{
+
+}
+.paddingForTD{
+    padding-left: 10%;
+}
+
+.card-header{
+    text-align: center;
+}
